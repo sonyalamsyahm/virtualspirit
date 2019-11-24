@@ -4,25 +4,25 @@
       "id": 1,
       "title": "ghost city",
       "image": "https://files.brightside.me/files/news/part_4/46555/205655-10885710-R3L8T8D-990-14-1000-b690702a90-1570093949.jpg",
-      "likes": [1]
+      "likes": 0
     },
     {
       "id": 2,
       "title": "forest",
       "image": "https://files.brightside.me/files/news/part_4/46555/209705-8134610-R3L8T8D-1000-11-1000-7cd991fa53-1570093949.jpg",
-      "likes": [2]
+      "likes": 0
     },
     {
       "id": 3,
       "title": "winter",
       "image": "https://files.brightside.me/files/news/part_4/46555/209405-5805610-R3L8T8D-990-29apr14_085355-1000-b60d5d2567-1570093949.jpg",
-      "likes": [10]
+      "likes": 0
     },
     {
       "id": 4,
       "title": "montain",
       "image": "https://files.brightside.me/files/news/part_4/46555/205005-10102310-R3L8T8D-950-6-1-1000-a35d86e667-1570093949.jpg",
-      "likes": [5]
+      "likes": 0
     }
   ]
 }
